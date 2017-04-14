@@ -1,0 +1,15 @@
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\obj\Debug\AddTextToImage.ImageGenarator.csprojResolveAssemblyReference.cache
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\Include\TextDesignerCSLibrary.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\AddTextToImage.ImageGenarator.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\AddTextToImage.ImageGenarator.pdb
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\AddTextToImage.Data.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\AddTextToImage.Domain.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\TextDesignerCSLibrary.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\EntityFramework.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\Newtonsoft.Json.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\AddTextToImage.Data.pdb
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\AddTextToImage.Domain.pdb
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\EntityFramework.xml
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\bin\Debug\Newtonsoft.Json.xml
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\obj\Debug\AddTextToImage.ImageGenarator.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.ImageGenarator\obj\Debug\AddTextToImage.ImageGenarator.pdb

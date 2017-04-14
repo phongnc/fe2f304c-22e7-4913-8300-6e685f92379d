@@ -1,0 +1,14 @@
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\AddTextToImage.Data.dll.config
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\AddTextToImage.Data.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\AddTextToImage.Data.pdb
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\AddTextToImage.Domain.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\EntityFramework.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\Newtonsoft.Json.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\AddTextToImage.Domain.pdb
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\EntityFramework.xml
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\bin\Debug\Newtonsoft.Json.xml
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\obj\Debug\AddTextToImage.Data.csprojResolveAssemblyReference.cache
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\obj\Debug\AddTextToImage.Data.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Data\obj\Debug\AddTextToImage.Data.pdb

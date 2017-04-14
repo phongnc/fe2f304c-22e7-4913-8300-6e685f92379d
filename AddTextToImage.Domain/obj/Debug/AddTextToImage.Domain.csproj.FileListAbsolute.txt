@@ -1,0 +1,11 @@
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\bin\Debug\AddTextToImage.Domain.dll.config
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\bin\Debug\AddTextToImage.Domain.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\bin\Debug\AddTextToImage.Domain.pdb
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\bin\Debug\EntityFramework.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\bin\Debug\EntityFramework.xml
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\obj\Debug\AddTextToImage.Domain.dll
+D:\BOTEXAMPLES\AddTextToImage-master\AddTextToImage.Domain\obj\Debug\AddTextToImage.Domain.pdb
