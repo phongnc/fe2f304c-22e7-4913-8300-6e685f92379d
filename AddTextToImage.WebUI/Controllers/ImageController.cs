@@ -182,6 +182,12 @@ namespace AddTextToImage.WebUI.Controllers
 
                         OutlineTextProcessor outlineTextProcessor = new OutlineTextProcessor(modelItem, template, fontPath);
                         Bitmap image = outlineTextProcessor.GetImage();
+
+                        if (image.Width > graphics.VisibleClipBounds.Width)
+                            image = ImageGenarator.ImageUtils.ResizeImage(image, int.Parse(graphics.VisibleClipBounds.Width.ToString()), image.Height);
+                        modelItem.PositionTop = int.Parse(Math.Floor((graphics.VisibleClipBounds.Height - image.Height) / 2).ToString());
+                        modelItem.PositionLeft = int.Parse(Math.Floor((graphics.VisibleClipBounds.Width - image.Width) / 2).ToString());
+
                         graphics.DrawImage((Image)image, new Point(modelItem.PositionLeft, modelItem.PositionTop));
                     }
 
